@@ -1,0 +1,1 @@
+["{\"name\": \"White chocolate butter kek\", \"stock\": 43, \"min_stock\": 40, \"colo_count\": 6}", "{\"name\": \"Meat ball\", \"stock\": 5, \"min_stock\": 4, \"colo_count\": 2}"]
